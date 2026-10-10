@@ -1,0 +1,13 @@
+{
+  "id": "./",
+  "name": "Etembe Share — Private File Transfer",
+  "short_name": "Etembe Share",
+  "description": "Peer-to-peer file and text sharing between compatible browsers.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}],
+  "background_color": "#0D0D11",
+  "theme_color": "#0D0D11"
+}
